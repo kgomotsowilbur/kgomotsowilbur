@@ -1,7 +1,7 @@
 
 # Hey there! 👋 I'm Kgomotso Manana
 
-### Software Engineer| Building Digital Experiences That Matter
+### Software Engineer | Building Digital Experiences That Matter
 
 I'm a passionate **Software Engineer** with 3+ years of experience building and maintaining web and mobile applications.
 
